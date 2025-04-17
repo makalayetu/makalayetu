@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Makala Yetu</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Makala Safi</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <img src="logo-makala-yetu.png" alt="Logo Makala Yetu" class="logo">
-    <h1>Makala Yetu</h1>
+    <img src="logo-makala-safi.png" alt="Logo Makala Safi" class="logo" />
+    <h1>Makala Safi</h1>
     <p class="slogan">Le feu de nos foyers, la force de nos racines</p>
   </header>
 
   <section class="about">
     <h2>À propos</h2>
-    <p>Makala Yetu est une entreprise locale spécialisée dans la production et la distribution de charbon de bois de qualité, respectueuse de l’environnement et accessible à tous les foyers.</p>
+    <p>Makala Safi est une entreprise locale spécialisée dans la production et la distribution de charbon de bois de qualité, respectueuse de l’environnement et accessible à tous les foyers.</p>
   </section>
 
   <section class="products">
@@ -30,11 +30,11 @@
     <h2>Contact</h2>
     <p>Téléphone : +243 974 010 303</p>
     <p>Email : makalayetu79@gmail.com</p>
-    <p>WhatsApp : <a href="https://wa.me/243974010303" target="_blank">Cliquez ici</a></p>
+    <p>WhatsApp : <a href="https://wa.me/243974010303" target="_blank">Clique ici</a></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Makala Yetu. Tous droits réservés.</p>
+    <p>&copy; 2025 Makala Safi. Tous droits réservés.</p>
   </footer>
 </body>
 </html>
